@@ -6,7 +6,7 @@
 
 ## 시작하기 (Getting Started)
 
-<img alt='시작하기' src="docs/git.png" style="width: 600px"/>
+<img alt='시작하기' src="docs/images/git.png" style="width: 600px"/>
 
 1. 저장소를 포크하고 클론한다.
 2. 클론한 폴더로 이동 후 브랜치를 생성한다.
@@ -116,15 +116,15 @@
 
 - 터미널에서 java -version을 실행하여 Java 버전이 21인지 확인한다.
 
-<img alt="자바 버전" src="docs/version.png" style="width: 600px" />
+<img alt="자바 버전" src="docs/images/version.png" style="width: 600px" />
 
 - gradlew.bat clean test 또는 ./gradlew.bat clean test 명령을 실행할 때 모든 테스트가 아래와 같이 통과하는지 확인한다.
 
-<img alt="빌드 테스트" src="docs/test.png" style="width: 850px" />
+<img alt="빌드 테스트" src="docs/images/test.png" style="width: 850px" />
 
 - 테스트 코드 실행 결과
 
-<img alt="테스트 코드 결과" src="docs/testresult.png" style="width:270px" />
+<img alt="테스트 코드 결과" src="docs/images/testresult.png" style="width:270px" />
 
 
 
